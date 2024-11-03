@@ -7,10 +7,13 @@ Responsive Design: Optimized for both desktop and mobile devices to ensure acces
 Content Management: Users can create, edit, and delete their own blog posts.
 Comments Section: Allows readers to comment on blog posts, fostering engagement and interaction.
 Search Functionality: Users can search for posts by keywords.
+
 **Tech Stack**
 Backend: Django
 Frontend: HTML, CSS, JavaScript (for interactive elements)
 Database: SQLite (can be upgraded to PostgreSQL for production)
+
+
 **Installation**
 Clone the Repository
 bash
