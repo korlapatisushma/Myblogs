@@ -28,26 +28,22 @@ cd blog-website
 python -m venv env
 source env/bin/activate # On Windows use `env\Scripts\activate`
 ```
-Install Dependencies
-
-bash
-Copy code
+-Install Dependencies
+```bash
 pip install -r requirements.txt
-Set Up Database
-
-bash
-Copy code
+```
+- Set Up Database
+```bash
 python manage.py migrate
-Create a Superuser
-
-bash
-Copy code
+```
+- Create a Superuser
+```bash
 python manage.py createsuperuser
-Run the Development Server
-
-bash
-Copy code
+```
+- Run the Development Server
+```bash
 python manage.py runserver
+```
 Visit http://127.0.0.1:8000/ to see the application.
 
 **Usage**
