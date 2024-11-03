@@ -10,7 +10,7 @@ This is a dynamic and user-friendly blog website built with the Django web frame
 - **Comments Section:** Allows readers to comment on blog posts, fostering engagement and interaction.
 - **Search Functionality:** Users can search for posts by keywords.
 
-**Tech Stack**
+#      Tech Stack
 - **Backend:** Django
 - **Frontend:** HTML, CSS, JavaScript (for interactive elements)
 - **Database**: SQLite (can be upgraded to PostgreSQL for production)
