@@ -23,16 +23,11 @@ git clone https://github.com/your-username/blog-website.git
 cd blog-website
 ```
 
-Create a Virtual Environment
-
-bash
-Copy code
+- Create a Virtual Environment
+```bash
 python -m venv env
-
-source env/bin/activate 
-
-# On Windows use `env\Scripts\activate`
-
+source env/bin/activate # On Windows use `env\Scripts\activate`
+```
 Install Dependencies
 
 bash
