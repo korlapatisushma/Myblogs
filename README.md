@@ -18,10 +18,10 @@ This is a dynamic and user-friendly blog website built with the Django web frame
 
 #   **Installation**
 - Clone the Repository
----bash
+'''bash
 git clone https://github.com/your-username/blog-website.git
----
 cd blog-website
+'''
 
 Create a Virtual Environment
 
