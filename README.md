@@ -16,7 +16,7 @@ This is a dynamic and user-friendly blog website built with the Django web frame
 - **Database**: SQLite (can be upgraded to PostgreSQL for production)
 
 
-#   **Installation**
+## **Installation**
 - Clone the Repository
 '''bash
 git clone https://github.com/your-username/blog-website.git
