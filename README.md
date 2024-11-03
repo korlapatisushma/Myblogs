@@ -1,4 +1,6 @@
-**Blog Website**
+# Blog Website
+
+
 This is a dynamic and user-friendly blog website built with the Django web framework. It includes features such as responsive design, user authentication, and a content management system, providing an interactive experience for users to create, read, and engage with blog posts.
 
 **Features**
