@@ -28,7 +28,7 @@ cd blog-website
 python -m venv env
 source env/bin/activate # On Windows use `env\Scripts\activate`
 ```
--Install Dependencies
+- Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
@@ -46,21 +46,12 @@ python manage.py runserver
 ```
 Visit http://127.0.0.1:8000/ to see the application.
 
-**Usage**
-Admin Panel: Access the Django admin panel at /admin/ to manage users, posts, and comments.
-Creating Posts: Users can create and publish posts after logging in.
-Commenting: Registered users can comment on posts to engage with content.
-Testing
+## **Usage**
+- Admin Panel: Access the Django admin panel at /admin/ to manage users, posts, and comments.
+- Creating Posts: Users can create and publish posts after logging in.
+-Commenting: Registered users can comment on posts to engage with content.
+## Testing
 Run the following command to test the application:
-
-bash
-Copy code
+```bash
 python manage.py test
-Contributing
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes and commit (git commit -m "Added feature XYZ")
-Push to the branch (git push origin feature-branch)
-Create a Pull Request
-License
-This project is licensed under the MIT License.
+```
